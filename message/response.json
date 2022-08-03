@@ -1,14 +1,14 @@
 {
-  "wait": "*_Tunggu Sebentar Yah Kak, Permintaanmu Sedang Diproses_*",
-  "succses": "*Success By Hitomi Bot ✅*",
+  "wait": "▰▰▰▱▱▱▱▱▱Sabar Su...",
+  "succses": "*Success Cok! ✅*",
   "error": {
-    "Iv": "Link yang kamu berikan tidak valid",
+    "Iv": "Link Tidak Valid Coy",
     "api": "Maaf terjadi kesalahan"
   },
   "OnlyGrup": "Perintah ini hanya bisa digunakan di grup",
-  "OnlyPM": "Perintah ini hanya bisa digunakan di private message",
-  "GrupAdmin": "Perintah ini hanya bisa digunakan oleh Admin Grup",
-  "BotAdmin": "Bot Harus menjadi admin",
-  "OnlyOwner": "Perintah ini hanya dapat digunakan oleh owner bot",
-  "OnlyPrem": "Perintah ini khusus member premium"
+  "OnlyPM": "Perintah ini hanya bisa digunakan di personal chat",
+  "GrupAdmin": "Awokawok Lu Ga Admin Tod😏",
+  "BotAdmin": "Adminin Bot Dulu Lah😑",
+  "OnlyOwner": "Luwh Owner? Sok Iye Bgst",
+  "OnlyPrem": "Perintah ini khusus user premium!"
 }
