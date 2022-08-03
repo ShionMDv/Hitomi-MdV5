@@ -58,3 +58,4 @@ npm start
 - Christian ID
 - Arasya
 - Lexxy
+- Kaizax
