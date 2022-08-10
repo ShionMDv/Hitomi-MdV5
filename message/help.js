@@ -311,7 +311,7 @@ ${setting.sb2} *OTHER MENU*
  ${setting.sb} ${prefix}readmore
  ${setting.sb} ${prefix}getpp
  ${setting.sb} ${prefix}tts
- ${setting.sb} ${prefix}ppcp
+ ${setting.sb} ${prefix}.ppcp
  ${setting.sb} ${prefix}kontak
  ${setting.sb} ${prefix}covidglobal
  ${setting.sb} ${prefix}infogempa
